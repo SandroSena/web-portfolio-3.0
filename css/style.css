@@ -69,11 +69,14 @@ body {
 .about-content {
     display: flex;
     flex-flow: column;
+    align-items: center;
 }
 
 .about-img {
+    margin-top: 2rem;
     height: 35rem;
-    margin: 2rem 30rem;
+    width: 60rem;
+    align-content: center;      
 }
 
 .about-h2 {
@@ -275,5 +278,20 @@ body {
     .about-content {
         display: flex;
         flex-wrap: wrap;
+    }
+
+    .footer-icons {
+        width: 25rem;
+        font-size: 5rem;
+    }
+    
+    .footer-p {
+        font-size: 1.8rem;
+    }
+
+    .about-img {
+        height: 35rem;
+        width: 35rem;
+        margin-top: 2rem;
     }
 }
