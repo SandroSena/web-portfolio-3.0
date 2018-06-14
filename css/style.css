@@ -108,6 +108,8 @@ body {
 .container-skillbar {
       width: 100%;
       padding-top: 3rem;
+      padding-left: 1.8rem;
+      padding-right: 1.8rem;
       height: auto;
 }
 
@@ -286,12 +288,12 @@ body {
     }
     
     .footer-p {
-        font-size: 1.8rem;
+        font-size: 1.6rem;
     }
 
     .about-img {
         height: 35rem;
-        width: 35rem;
+        width: 32rem;
         margin-top: 2rem;
     }
 }
