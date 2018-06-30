@@ -276,7 +276,7 @@ body {
     }
 }
 
-/* @keyframes moveInBottom {
+@keyframes moveInBottom {
     0% {
         opacity: 0;
         transform: translateY(3rem);
@@ -286,7 +286,7 @@ body {
         opacity: 1;
         transform: translate(0);
     }
-} */
+}
 /********************************* MediaQuery *********************************/
 
 @media only screen and (max-width: 720px) {
